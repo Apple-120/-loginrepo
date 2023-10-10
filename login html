@@ -6,7 +6,7 @@
 <h1>login here </h1>
 <label> username</label>
 <input type="text" placeholder="user name">
-label> password </label>
+<label>password</label>
 <input type="password">
 </body>
 </html>
